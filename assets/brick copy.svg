@@ -1,0 +1,11 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+	 width="512px" height="256px" viewBox="0 0 512 256" enable-background="new 0 0 512 256" xml:space="preserve">
+<rect x="14.998" y="14.997" fill="pink" width="482.003" height="226.004"/>
+<polygon fill="red" stroke="#231F20" stroke-width="0.25" stroke-miterlimit="10" points="512,0 497.001,14.997 
+	497.001,241.001 512,256 "/>
+<polygon fill="green" points="512,256 0,256 14.998,241.001 497.001,241.001 "/>
+<polygon fill="purple" stroke="#231F20" stroke-width="0.25" stroke-miterlimit="10" points="0,256 0,0 14.998,14.997 
+	14.998,241.001 "/>
+<polygon fill="coral" stroke="#231F20" stroke-width="0.25" stroke-miterlimit="10" points="0,0 512,0 497.001,14.997 
+	14.998,14.997 "/>
+</svg>

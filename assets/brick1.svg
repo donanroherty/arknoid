@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="256px" viewBox="0 0 512 256" enable-background="new 0 0 512 256" xml:space="preserve">
+<rect x="14.998" y="14.997" fill="#F42402" width="482.003" height="226.004"/>
+<polygon fill="#E5AEAE" stroke="#231F20" stroke-width="0.25" stroke-miterlimit="10" points="512,0 497.001,14.997 
+	497.001,241.001 512,256 "/>
+<polygon fill="#750A03" points="512,256 0,256 14.998,241.001 497.001,241.001 "/>
+<polygon fill="#934444" stroke="#231F20" stroke-width="0.25" stroke-miterlimit="10" points="0,256 0,0 14.998,14.997 
+	14.998,241.001 "/>
+<polygon fill="#D34F4F" stroke="#231F20" stroke-width="0.25" stroke-miterlimit="10" points="0,0 512,0 497.001,14.997 
+	14.998,14.997 "/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1098.4785" y1="-540.269" x2="1306.998" y2="-540.269">
+	<stop  offset="0" style="stop-color:#78EF7D"/>
+	<stop  offset="0.333" style="stop-color:#C2FECA"/>
+	<stop  offset="0.666" style="stop-color:#0FA315"/>
+	<stop  offset="1" style="stop-color:#014E03"/>
+</linearGradient>
+<rect x="1098.479" y="-589.595" fill="url(#SVGID_1_)" width="208.52" height="98.651"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="1374.0225" y1="-794.9858" x2="1582.542" y2="-794.9858" gradientTransform="matrix(1 0 0 1 -275.5439 452.7173)">
+	<stop  offset="0" style="stop-color:#82B0EB"/>
+	<stop  offset="0.333" style="stop-color:#9BE4FC"/>
+	<stop  offset="0.666" style="stop-color:#3586F4"/>
+	<stop  offset="1" style="stop-color:#000D74"/>
+</linearGradient>
+<rect x="1098.479" y="-391.594" fill="url(#SVGID_2_)" width="208.52" height="98.651"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="1374.0225" y1="-600.9858" x2="1582.542" y2="-600.9858" gradientTransform="matrix(1 0 0 1 -275.5439 452.7173)">
+	<stop  offset="0" style="stop-color:#FFF76A"/>
+	<stop  offset="0.333" style="stop-color:#FFFAC7"/>
+	<stop  offset="0.666" style="stop-color:#FBE50F"/>
+	<stop  offset="1" style="stop-color:#815807"/>
+</linearGradient>
+<rect x="1098.479" y="-197.594" fill="url(#SVGID_3_)" width="208.52" height="98.651"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="1374.0225" y1="-412.9858" x2="1582.542" y2="-412.9858" gradientTransform="matrix(1 0 0 1 -275.5439 452.7173)">
+	<stop  offset="0" style="stop-color:#FFC750"/>
+	<stop  offset="0.333" style="stop-color:#FBE898"/>
+	<stop  offset="0.666" style="stop-color:#F07A01"/>
+	<stop  offset="1" style="stop-color:#A94C03"/>
+</linearGradient>
+<rect x="1098.479" y="-9.594" fill="url(#SVGID_4_)" width="208.52" height="98.651"/>
+<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="1374.0225" y1="-220.7603" x2="1582.542" y2="-220.7603" gradientTransform="matrix(1 0 0 1 -275.5439 452.7173)">
+	<stop  offset="0" style="stop-color:#FF766A"/>
+	<stop  offset="0.333" style="stop-color:#FCC3C8"/>
+	<stop  offset="0.666" style="stop-color:#F42402"/>
+	<stop  offset="1" style="stop-color:#750A03"/>
+</linearGradient>
+<rect x="1098.479" y="182.631" fill="url(#SVGID_5_)" width="208.52" height="98.652"/>
+<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="1374.0225" y1="12.0142" x2="1582.542" y2="12.0142" gradientTransform="matrix(1 0 0 1 -275.5439 452.7173)">
+	<stop  offset="0" style="stop-color:#D99BE6"/>
+	<stop  offset="0.333" style="stop-color:#EFC6F2"/>
+	<stop  offset="0.666" style="stop-color:#9141B2"/>
+	<stop  offset="1" style="stop-color:#5B1270"/>
+</linearGradient>
+<rect x="1098.479" y="415.406" fill="url(#SVGID_6_)" width="208.52" height="98.65"/>
+<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="1374.0225" y1="241.0137" x2="1582.542" y2="241.0137" gradientTransform="matrix(1 0 0 1 -275.5439 452.7173)">
+	<stop  offset="0" style="stop-color:#B0BEC6"/>
+	<stop  offset="0.333" style="stop-color:#C2CDD3"/>
+	<stop  offset="0.666" style="stop-color:#455155"/>
+	<stop  offset="1" style="stop-color:#2C363A"/>
+</linearGradient>
+<rect x="1098.479" y="644.405" fill="url(#SVGID_7_)" width="208.52" height="98.651"/>
+<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="1374.0225" y1="442.0039" x2="1582.542" y2="442.0039" gradientTransform="matrix(1 0 0 1 -275.5439 452.7173)">
+	<stop  offset="0" style="stop-color:#CFD8EF"/>
+	<stop  offset="0.333" style="stop-color:#E5E8FA"/>
+	<stop  offset="0.666" style="stop-color:#A9AAC6"/>
+	<stop  offset="1" style="stop-color:#7375A0"/>
+</linearGradient>
+<rect x="1098.479" y="845.396" fill="url(#SVGID_8_)" width="208.52" height="98.651"/>
+<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="1374.0225" y1="649.0244" x2="1582.542" y2="649.0244" gradientTransform="matrix(1 0 0 1 -275.5439 452.7173)">
+	<stop  offset="0" style="stop-color:#FD86BF"/>
+	<stop  offset="0.333" style="stop-color:#FFDFF3"/>
+	<stop  offset="0.666" style="stop-color:#FF1F97"/>
+	<stop  offset="1" style="stop-color:#971049"/>
+</linearGradient>
+<rect x="1098.479" y="1052.416" fill="url(#SVGID_9_)" width="208.52" height="98.652"/>
+<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="1374.0225" y1="843.0244" x2="1582.542" y2="843.0244" gradientTransform="matrix(1 0 0 1 -275.5439 452.7173)">
+	<stop  offset="0" style="stop-color:#EAC602"/>
+	<stop  offset="0.333" style="stop-color:#F2F6BF"/>
+	<stop  offset="0.666" style="stop-color:#F2E939"/>
+	<stop  offset="1" style="stop-color:#824100"/>
+</linearGradient>
+<rect x="1098.479" y="1246.416" fill="url(#SVGID_10_)" width="208.52" height="98.652"/>
+<linearGradient id="SVGID_11_" gradientUnits="userSpaceOnUse" x1="1374.0225" y1="1041.0146" x2="1582.542" y2="1041.0146" gradientTransform="matrix(1 0 0 1 -275.5439 452.7173)">
+	<stop  offset="0" style="stop-color:#999BB5"/>
+	<stop  offset="0.333" style="stop-color:#FFFFF8"/>
+	<stop  offset="0.666" style="stop-color:#B6BAC3"/>
+	<stop  offset="1" style="stop-color:#59597F"/>
+</linearGradient>
+<rect x="1098.479" y="1444.407" fill="url(#SVGID_11_)" width="208.52" height="98.651"/>
+<linearGradient id="SVGID_12_" gradientUnits="userSpaceOnUse" x1="1374.0225" y1="1230.0049" x2="1582.542" y2="1230.0049" gradientTransform="matrix(1 0 0 1 -275.5439 452.7173)">
+	<stop  offset="0" style="stop-color:#F0A36D"/>
+	<stop  offset="0.333" style="stop-color:#EFD9CA"/>
+	<stop  offset="0.666" style="stop-color:#A45014"/>
+	<stop  offset="1" style="stop-color:#662200"/>
+</linearGradient>
+<rect x="1098.479" y="1633.396" fill="url(#SVGID_12_)" width="208.52" height="98.651"/>
+<linearGradient id="SVGID_13_" gradientUnits="userSpaceOnUse" x1="1374.0225" y1="1425.876" x2="1582.542" y2="1425.876" gradientTransform="matrix(1 0 0 1 -275.5439 452.7173)">
+	<stop  offset="0" style="stop-color:#FFB87C"/>
+	<stop  offset="0.333" style="stop-color:#FEF1A1"/>
+	<stop  offset="0.666" style="stop-color:#CF7745"/>
+	<stop  offset="1" style="stop-color:#B2612C"/>
+</linearGradient>
+<rect x="1098.479" y="1829.268" fill="url(#SVGID_13_)" width="208.52" height="98.652"/>
+<rect x="1392.674" y="-614.269" fill="#78EF7D" width="88" height="94"/>
+<rect x="1417.674" y="-589.269" fill="#0FA315" width="88" height="94"/>
+<rect x="1443.424" y="-567.269" fill="#014E03" width="88" height="94"/>
+<rect x="1466.424" y="-542.269" fill="#C2FECA" width="88" height="94"/>
+<rect x="1392.674" y="-414.269" fill="#82B0EB" width="88" height="94"/>
+<rect x="1417.674" y="-389.269" fill="#3586F4" width="88" height="94"/>
+<rect x="1443.424" y="-367.269" fill="#000D74" width="88" height="94"/>
+<rect x="1466.424" y="-342.269" fill="#9BE4FC" width="88" height="94"/>
+<rect x="1392.674" y="-220.269" fill="#FFF76A" width="88" height="94"/>
+<rect x="1417.674" y="-195.269" fill="#FBE50F" width="88" height="94"/>
+<rect x="1443.424" y="-173.269" fill="#815807" width="88" height="94"/>
+<rect x="1466.424" y="-148.269" fill="#FFFAC7" width="88" height="94"/>
+<rect x="1392.674" y="-32.269" fill="#FFC750" width="88" height="94"/>
+<rect x="1417.674" y="-7.269" fill="#F07A01" width="88" height="94"/>
+<rect x="1443.424" y="14.731" fill="#A94C03" width="88" height="94"/>
+<rect x="1466.424" y="39.731" fill="#FBE898" width="88" height="94"/>
+<rect x="1392.674" y="159.957" fill="#FF766A" width="88" height="94"/>
+<rect x="1417.674" y="184.957" fill="#F42402" width="88" height="94"/>
+<rect x="1443.424" y="206.957" fill="#750A03" width="88" height="94"/>
+<rect x="1466.424" y="231.957" fill="#FCC3C8" width="88" height="94"/>
+<rect x="1392.674" y="392.731" fill="#D99BE6" width="88" height="94"/>
+<rect x="1417.674" y="417.731" fill="#9141B2" width="88" height="94"/>
+<rect x="1443.424" y="439.731" fill="#5B1270" width="88" height="94"/>
+<rect x="1466.424" y="464.731" fill="#EFC6F2" width="88" height="94"/>
+<rect x="1392.674" y="621.731" fill="#B0BEC6" width="88" height="94"/>
+<rect x="1417.674" y="646.731" fill="#455155" width="88" height="94"/>
+<rect x="1443.424" y="668.731" fill="#2C363A" width="88" height="94"/>
+<rect x="1466.424" y="693.731" fill="#C2CDD3" width="88" height="94"/>
+<rect x="1392.674" y="822.722" fill="#CFD8EF" width="88" height="94"/>
+<rect x="1417.674" y="847.722" fill="#A9AAC6" width="88" height="94"/>
+<rect x="1443.424" y="869.722" fill="#7375A0" width="88" height="94"/>
+<rect x="1466.424" y="894.722" fill="#E5E8FA" width="88" height="94"/>
+<rect x="1392.674" y="1805.139" fill="#FEF1A1" width="91.352" height="96.035"/>
+<rect x="1418.865" y="1830.576" fill="#FFB87C" width="91.353" height="96.035"/>
+<rect x="1438.349" y="1853.156" fill="#CF7745" width="91.353" height="96.037"/>
+<rect x="1464.54" y="1878.594" fill="#B2612C" width="91.353" height="96.036"/>
+<text transform="matrix(1 0 0 1 1601 -495.2686)" font-family="'AvantGarde-Book'" font-size="50.2502">Greens</text>
+<text transform="matrix(1 0 0 1 1601 -295.2686)" font-family="'AvantGarde-Book'" font-size="50.2502">Blues</text>
+<text transform="matrix(1 0 0 1 1601 -101.2686)" font-family="'AvantGarde-Book'" font-size="50.2502">Yellows</text>
+<text transform="matrix(1 0 0 1 1601 74.7314)" font-family="'AvantGarde-Book'" font-size="50.2502">Oranges</text>
+<text transform="matrix(1 0 0 1 1601 270.7314)" font-family="'AvantGarde-Book'" font-size="50.2502">Reds</text>
+<text transform="matrix(1 0 0 1 1601 511.7314)" font-family="'AvantGarde-Book'" font-size="50.2502">Purples</text>
+<text transform="matrix(1 0 0 1 1601 731.7314)" font-family="'AvantGarde-Book'" font-size="50.2502">Blacks</text>
+<text transform="matrix(1 0 0 1 1601 941.7217)" font-family="'AvantGarde-Book'" font-size="50.2502">Whites</text>
+<rect x="1392.674" y="1029.742" fill="#FD86BF" width="88" height="94"/>
+<rect x="1417.674" y="1054.742" fill="#FF1F97" width="88" height="94"/>
+<rect x="1443.424" y="1076.742" fill="#971049" width="88" height="94"/>
+<rect x="1466.424" y="1101.742" fill="#FFDFF3" width="88" height="94"/>
+<text transform="matrix(1 0 0 1 1601 1148.7422)" font-family="'AvantGarde-Book'" font-size="50.2502">Pinks</text>
+<rect x="1392.674" y="1223.742" fill="#EAC602" width="88" height="94"/>
+<rect x="1417.674" y="1248.742" fill="#F2E939" width="88" height="94"/>
+<rect x="1443.424" y="1270.742" fill="#824100" width="88" height="94"/>
+<rect x="1466.424" y="1295.742" fill="#F2F6BF" width="88" height="94"/>
+<text transform="matrix(1 0 0 1 1601 1342.7422)" font-family="'AvantGarde-Book'" font-size="50.2502">Golds</text>
+<rect x="1392.674" y="1421.732" fill="#999BB5" width="88" height="94"/>
+<rect x="1417.674" y="1446.732" fill="#B6BAC3" width="88" height="94"/>
+<rect x="1443.424" y="1468.732" fill="#59597F" width="88" height="94"/>
+<rect x="1466.424" y="1493.732" fill="#FFFFF8" width="88" height="94"/>
+<text transform="matrix(1 0 0 1 1601 1540.7324)" font-family="'AvantGarde-Book'" font-size="50.2502">Silvers</text>
+<rect x="1392.674" y="1610.723" fill="#F0A36D" width="88" height="94"/>
+<rect x="1417.674" y="1635.723" fill="#A45014" width="88" height="94"/>
+<rect x="1443.424" y="1657.723" fill="#662200" width="88" height="94"/>
+<rect x="1466.424" y="1682.723" fill="#EFD9CA" width="88" height="94"/>
+<text transform="matrix(1 0 0 1 1601 1729.7227)" font-family="'AvantGarde-Book'" font-size="50.2502">Bronzes</text>
+<text transform="matrix(1 0 0 1 1570.9043 1933.1074)" font-family="'AvantGarde-Book'" font-size="50.2502">Skin</text>
+</svg>
